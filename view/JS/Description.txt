@@ -1,1 +1,2 @@
-Add your script  or js files in this directory
+Add your script  or javaScript
+ files in this directory
